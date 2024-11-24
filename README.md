@@ -4,8 +4,6 @@
 ![coworking_img](https://media.istockphoto.com/id/1355225861/vector/soccer-scoreboard-background-match-team-template-design.jpg?s=612x612&w=0&k=20&c=X72GLWOlQRRtxN616RsT5ibx_TGvSZ_oiNLTvQ1yJHU=)
 
 ## 🏢 Description
-
-## Project Overview
 This project is a Python script designed to scrape daily football match results and timings from [Yalla Kora](https://www.yallakora.com/). The script enables users to input a specific date in the format `YYYY-MM-DD` and retrieves the match details for that day, storing the results in a structured CSV file named `matches_details.csv`.
 
 ## Features
